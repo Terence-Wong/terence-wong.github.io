@@ -1,5 +1,6 @@
 var title = anime({
 	targets: 'body',
-	translateY: 500,
-	duration: 1700
+	translateY: 800,
+	duration: 1700,
+	delay:500
 });
