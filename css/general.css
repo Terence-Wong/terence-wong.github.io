@@ -8,6 +8,7 @@ body{
 	color: #5fcf80;
 	font-size: 100px;
 	text-align: center;
+	margin-top: -500px;
 }
 #subheadingColor{
 	color: #ff7d4f;
@@ -16,7 +17,7 @@ body{
 	font-family: sandfont;
 }
 #textBox{
-	border-radius: 5px;
+	border-radius: 10px;
 	background-color: #f3f3f3;
 	width: 70%;
 	margin: 10px auto;
